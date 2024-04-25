@@ -1,7 +1,7 @@
 # CMPSC431W-Project
 Name: Alex Boshnakov\
 Section: 3:35-4:25\
-\
+
 
 ## Project Setup
 1.	Download the PostgreSQL database from the GitHub link above, connect to a SQL Server (PostgreSQL recommended), and import the database to your server.
