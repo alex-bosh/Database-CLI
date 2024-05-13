@@ -1,9 +1,9 @@
 # Command Line Interface for PostgreSQL Database
 Name: Alex Boshnakov\
 Section: 3:35-4:25 MWF\
-Class: CMPSC 431W\
+Class: CMPSC 431W
 
-The dataset supported by the CLI is called ‘Airbnb Listings & Reviews’ [(Kaggle page)](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews/data). This dataset contains Airbnb data for over 250,000 listings in 10 major US cities. Information about hosts, reviews, pricing, location, and room type is included. 
+The dataset supported by the CLI is called "Airbnb Listings & Reviews" ([Kaggle page](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews/data)). This dataset contains Airbnb data for over 250,000 listings in 10 major US cities. Information about hosts, reviews, pricing, location, and room type is included. 
 
 
 ## Project Setup
