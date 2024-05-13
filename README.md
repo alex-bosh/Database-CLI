@@ -1,6 +1,7 @@
-# CMPSC431W-Project
+# Command Line Interface for PostgreSQL Database
 Name: Alex Boshnakov\
-Section: 3:35-4:25
+Section: 3:35-4:25 MWF\
+Class: CMPSC 431W
 
 
 ## Project Setup
